@@ -30,6 +30,9 @@ export default function TestPage() {
                     <section className="flex flex-col gap-y-[2rem] w-full">
                         <h1 className="text-2xl font-bold">게시글 제목입니다.</h1>
                         <div className="border bg-gray-200 w-full h-[20rem]">2</div>
+                        <div className="flex flex-row">
+
+                        </div>
                         <div>Laboris laboris sint commodo in id officia fugiat. Id magna proident amet commodo qui. Cillum cupidatat duis magna dolore eu reprehenderit labore ad eu reprehenderit. Qui eiusmod Lorem aliquip dolore exercitation laborum deserunt eu et nulla excepteur eu. Dolor ullamco reprehenderit irure aliqua nulla adipisicing non magna eu proident irure minim duis aliquip. Dolor labore eiusmod eiusmod ad sint id nisi. Culpa aute irure ea ipsum excepteur culpa cupidatat aute ut in ea nulla elit nulla.</div>
                         <aside className="flex justify-center items-center py-8">
                             <div className="border bg-gray-200 w-[40rem] h-[20rem]">광고</div>
